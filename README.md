@@ -1,7 +1,9 @@
-Restaurant Omikuji Line Bot
-==
 
-###Usage
+# Restaurant Omikuji Line Bot
+
+
+## Built With
+
 --I used the [Line PHP Bot SDK](https://github.com/line/line-bot-sdk-php) to develop my first Line Bot
 --It can be depolyed to Heroku directly
 --Please check the [Line Message API](https://developers.line.me/en/docs/messaging-api/getting-started/) to get the line chanel serect and token
